@@ -1,1 +1,1 @@
-# AskDiogenes a Website that answers Queestion as the ancient philosopher Diogenes
+# AskDiogenes a Webpage that answers Questions as the ancient philosopher Diogenes with the help of OpenAIs davinci-modell-003
