@@ -12,7 +12,7 @@ async function generateAnswer(event){
     event.preventDefault();
 
     const question = document.getElementById('question');
-    const prompt = `Act is if you were the ancient Philosopher Diogenes but drunk. What are you thoughts about this? Be Cynical and remember You are Diogenes:   ${question} .Ende` ;
+    const prompt = `Act is if you were the ancient Philosopher Diogenes.Be extremly sarcarctic What are you thoughts about this? Be Cynical and remember You are Diogenes:   ${question} .Ende` ;
 
 
 
